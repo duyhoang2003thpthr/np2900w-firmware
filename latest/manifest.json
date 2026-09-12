@@ -1,0 +1,10 @@
+{
+    "product":  "NP2900W",
+    "version":  "1.2.0",
+    "file":  "np2900w_update_v1.2.0_ENCRYPTED.bin",
+    "sha256":  "c8366602e9e9eba090ab95f5f69e0bfd46289a6c0fd3d8041fc1912a3e90932c",
+    "size":  1053184,
+    "notes":  "NP2900W firmware v1.2.0 - out of paper: only the KEY resumes the engine (a cancelled job no longer lets the next one print unattended); a job waiting behind an out-of-paper page stays visible to the client; WiFi identity in update mode (NP2900W-FW drive, Model/Hostname in LBP2900_LOG.TXT)",
+    "published":  "2026-08-26",
+    "notes_vi":  "Firmware NP2900W v1.2.0 - hết giấy: chỉ phím GIẤY mới cho máy in tiếp (hủy lệnh in không còn làm lệnh kế in mà không ai bấm); lệnh in xếp sau trang đang chờ giấy vẫn hiện trên máy tính; nhận diện máy WiFi ở chế độ cập nhật (ổ NP2900W-FW, dòng Model/Hostname trong LBP2900_LOG.TXT)"
+}
