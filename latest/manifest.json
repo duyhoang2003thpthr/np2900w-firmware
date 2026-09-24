@@ -1,10 +1,10 @@
 {
     "product":  "NP2900W",
-    "version":  "1.2.0",
-    "file":  "np2900w_update_v1.2.0_ENCRYPTED.bin",
-    "sha256":  "c8366602e9e9eba090ab95f5f69e0bfd46289a6c0fd3d8041fc1912a3e90932c",
+    "version":  "1.3.0",
+    "file":  "np2900w_update_v1.3.0_ENCRYPTED.bin",
+    "sha256":  "9c4a5af2bb9540bbff0b7f9542f8c81b3b1950b8a074d45a24b404842377023b",
     "size":  1053184,
-    "notes":  "NP2900W firmware v1.2.0 - out of paper: only the KEY resumes the engine (a cancelled job no longer lets the next one print unattended); a job waiting behind an out-of-paper page stays visible to the client; WiFi identity in update mode (NP2900W-FW drive, Model/Hostname in LBP2900_LOG.TXT)",
-    "published":  "2026-08-26",
-    "notes_vi":  "Firmware NP2900W v1.2.0 - hết giấy: chỉ phím GIẤY mới cho máy in tiếp (hủy lệnh in không còn làm lệnh kế in mà không ai bấm); lệnh in xếp sau trang đang chờ giấy vẫn hiện trên máy tính; nhận diện máy WiFi ở chế độ cập nhật (ổ NP2900W-FW, dòng Model/Hostname trong LBP2900_LOG.TXT)"
+    "notes":  "NP2900W firmware v1.3.0 - no more resets when several WiFi jobs are queued back to back; every PC and the printer\u0027s web page share one live status (who is printing what, page X of N, the queue, faults of a USB job too); a canceled out-of-paper job lets the next job print once paper is loaded and returns the printer to Ready; the POWER lamp stops blinking as soon as a cleared jam or closed cover lets the printer carry on.",
+    "published":  "2026-09-24",
+    "notes_vi":  "Firmware NP2900W v1.3.0 - hết khởi động lại khi nhiều lệnh in WiFi xếp nối nhau; mọi máy tính và trang web của máy in cùng thấy một trạng thái trực tiếp (ai đang in tài liệu gì, trang X/N, hàng đợi, cả lỗi của lệnh in USB); hủy lệnh in đang hết giấy thì lệnh kế in được ngay khi có giấy và máy về Sẵn sàng; đèn POWER thôi nháy ngay khi gỡ kẹt giấy / đóng nắp xong."
 }
