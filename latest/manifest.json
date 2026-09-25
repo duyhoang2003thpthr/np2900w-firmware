@@ -1,10 +1,10 @@
 {
     "product":  "NP2900W",
-    "version":  "1.3.0",
-    "file":  "np2900w_update_v1.3.0_ENCRYPTED.bin",
-    "sha256":  "9c4a5af2bb9540bbff0b7f9542f8c81b3b1950b8a074d45a24b404842377023b",
+    "version":  "1.4.0",
+    "file":  "np2900w_update_v1.4.0_ENCRYPTED.bin",
+    "sha256":  "f92c07be9e8e9e0551f549b3ff05ab3153d889c554032bc1038e15a7fb87ec4d",
     "size":  1053184,
-    "notes":  "NP2900W firmware v1.3.0 - no more resets when several WiFi jobs are queued back to back; every PC and the printer\u0027s web page share one live status (who is printing what, page X of N, the queue, faults of a USB job too); a canceled out-of-paper job lets the next job print once paper is loaded and returns the printer to Ready; the POWER lamp stops blinking as soon as a cleared jam or closed cover lets the printer carry on.",
-    "published":  "2026-09-24",
-    "notes_vi":  "Firmware NP2900W v1.3.0 - hết khởi động lại khi nhiều lệnh in WiFi xếp nối nhau; mọi máy tính và trang web của máy in cùng thấy một trạng thái trực tiếp (ai đang in tài liệu gì, trang X/N, hàng đợi, cả lỗi của lệnh in USB); hủy lệnh in đang hết giấy thì lệnh kế in được ngay khi có giấy và máy về Sẵn sàng; đèn POWER thôi nháy ngay khi gỡ kẹt giấy / đóng nắp xong."
+    "notes":  "Wi-Fi printing now works only from the MTC NP2900W driver apps (Windows 1.1.0 / Android 1.1.0) - install them together with this update. Printing over Wi-Fi Direct from the driver apps is fixed. The printer now joins networks with a weaker signal (down to -70 dBm).",
+    "published":  "2026-09-25",
+    "notes_vi":  "In qua Wi-Fi giờ chỉ nhận lệnh từ app driver MTC NP2900W (Windows 1.1.0 / Android 1.1.0) - hãy cài app mới cùng lúc với bản cập nhật này. Đã sửa lỗi không in được qua Wi-Fi Direct từ app driver. Máy vào được mạng Wi-Fi có sóng yếu hơn (tới -70 dBm)."
 }
