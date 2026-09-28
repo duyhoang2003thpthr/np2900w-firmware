@@ -1,10 +1,10 @@
 {
     "product":  "NP2900W",
-    "version":  "1.6.5",
-    "file":  "np2900w_update_v1.6.5_ENCRYPTED.bin",
-    "sha256":  "5d022943a60d9f8985ce3a51381bf077cf74b1e640b99318a99caacfc4ed8007",
+    "version":  "1.7.0",
+    "file":  "np2900w_update_v1.7.0_ENCRYPTED.bin",
+    "sha256":  "d11eadaae4e2196e93ed575c731300d749718fe49c02910e6201a828cb2b233b",
     "size":  1053184,
     "notes":  "Maintenance release: same features as 1.6.0 (firmware updates over Wi-Fi from the MTC driver app).",
-    "published":  "2026-09-28",
+    "published":  "2026-09-29",
     "notes_vi":  "Bản bảo trì: tính năng như 1.6.0 (cập nhật firmware qua Wi-Fi từ app driver MTC)."
 }
