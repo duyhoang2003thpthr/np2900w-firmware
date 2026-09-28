@@ -1,8 +1,8 @@
 {
     "product":  "NP2900W",
-    "version":  "1.6.3",
-    "file":  "np2900w_update_v1.6.3_ENCRYPTED.bin",
-    "sha256":  "0f758cd3ecb6d4709907ed6ae2f611d2c8de1515cf2827700a023bf34a760e5a",
+    "version":  "1.6.5",
+    "file":  "np2900w_update_v1.6.5_ENCRYPTED.bin",
+    "sha256":  "5d022943a60d9f8985ce3a51381bf077cf74b1e640b99318a99caacfc4ed8007",
     "size":  1053184,
     "notes":  "Maintenance release: same features as 1.6.0 (firmware updates over Wi-Fi from the MTC driver app).",
     "published":  "2026-09-28",
