@@ -1,10 +1,10 @@
 {
     "product":  "NP2900W",
-    "version":  "1.6.0",
-    "file":  "np2900w_update_v1.6.0_ENCRYPTED.bin",
-    "sha256":  "a456272fb9c40e02215f70f700573586768301875d5c9fed46328503b6c7bf9c",
+    "version":  "1.6.1",
+    "file":  "np2900w_update_v1.6.1_ENCRYPTED.bin",
+    "sha256":  "580197ffc3be79662af74f483d167c105d9e590f84b5c15ede8a5093706aca73",
     "size":  1053184,
-    "notes":  "Firmware updates over Wi-Fi from the MTC driver app (Windows or Android), with a progress bar and a fast-blinking power light while it runs. The status page and every PC show the update in progress. More reliable status for other devices while the printer is busy.",
+    "notes":  "Maintenance release: same features as 1.6.0 (firmware updates over Wi-Fi from the MTC driver app).",
     "published":  "2026-09-28",
-    "notes_vi":  "Cập nhật firmware qua Wi-Fi từ app driver MTC (Windows hoặc Android), có thanh tiến độ và đèn nguồn nháy nhanh trong lúc cập nhật. Trang trạng thái và mọi máy tính đều thấy máy đang cập nhật. Trạng thái hiển thị cho các thiết bị khác chính xác hơn khi máy đang bận."
+    "notes_vi":  "Bản bảo trì: tính năng như 1.6.0 (cập nhật firmware qua Wi-Fi từ app driver MTC)."
 }
