@@ -1,10 +1,10 @@
 {
     "product":  "NP2900W",
-    "version":  "1.4.0",
-    "file":  "np2900w_update_v1.4.0_ENCRYPTED.bin",
-    "sha256":  "f92c07be9e8e9e0551f549b3ff05ab3153d889c554032bc1038e15a7fb87ec4d",
+    "version":  "1.5.1",
+    "file":  "np2900w_update_v1.5.1_ENCRYPTED.bin",
+    "sha256":  "b60351374793372e6d342f85ebc4f1dd633e9de2f32d7c7488022c2efba13a8d",
     "size":  1053184,
-    "notes":  "Wi-Fi printing now works only from the MTC NP2900W driver apps (Windows 1.1.0 / Android 1.1.0) - install them together with this update. Printing over Wi-Fi Direct from the driver apps is fixed. The printer now joins networks with a weaker signal (down to -70 dBm).",
-    "published":  "2026-09-25",
-    "notes_vi":  "In qua Wi-Fi giờ chỉ nhận lệnh từ app driver MTC NP2900W (Windows 1.1.0 / Android 1.1.0) - hãy cài app mới cùng lúc với bản cập nhật này. Đã sửa lỗi không in được qua Wi-Fi Direct từ app driver. Máy vào được mạng Wi-Fi có sóng yếu hơn (tới -70 dBm)."
+    "notes":  "Firmware updates over Wi-Fi: the MTC driver app (Windows or Android) can now update the printer without a USB cable. English web pages, one-tap Wi-Fi setup, printer status over the USB cable.",
+    "published":  "2026-09-28",
+    "notes_vi":  "Cập nhật firmware qua Wi-Fi: app driver MTC (Windows hoặc Android) cập nhật máy in không cần cáp USB. Trang web tiếng Anh, cài Wi-Fi một chạm, xem trạng thái máy qua cáp USB."
 }
