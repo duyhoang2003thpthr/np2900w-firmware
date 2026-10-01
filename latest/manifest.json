@@ -1,10 +1,11 @@
 {
     "product":  "NP2900W",
-    "version":  "1.7.0",
-    "file":  "np2900w_update_v1.7.0_ENCRYPTED.bin",
-    "sha256":  "d11eadaae4e2196e93ed575c731300d749718fe49c02910e6201a828cb2b233b",
+    "version":  "2.0.0",
+    "file":  "np2900w_update_v2.0.0_ENCRYPTED.bin",
+    "sha256":  "9f3104dac337052be80cdf72e600a0e3523fa7c550db59c872881994b0c3d76e",
     "size":  1053184,
-    "notes":  "Maintenance release: same features as 1.6.0 (firmware updates over Wi-Fi from the MTC driver app).",
-    "published":  "2026-09-29",
-    "notes_vi":  "Bản bảo trì: tính năng như 1.6.0 (cập nhật firmware qua Wi-Fi từ app driver MTC)."
+    "notes":  "Firmware 2.0 - the new print protocol for MTC NP2900W driver 2.0 (Windows, Android, iPhone, Mac): several printers side by side, one shared queue every device sees, the printer\u0027s name and alignment kept in the printer, and HP LaserJet 1010-class printers now print over Wi-Fi too. Needs driver 2.0: a driver 1.x cannot print to a printer on firmware 2.0.",
+    "published":  "2026-10-01",
+    "notes_vi":  "Firmware 2.0 - giao thức in mới cho driver MTC NP2900W 2.0 (Windows, Android, iPhone, Mac): in nhiều máy in song song, một hàng đợi chung mọi thiết bị cùng thấy, tên máy in và căn lề lưu trong máy in, máy HP LaserJet 1010 in được cả qua Wi-Fi. Cần driver 2.0: driver 1.x không in được vào máy in đã lên firmware 2.0.",
+    "notes_zh":  "固件 2.0 - 为 MTC NP2900W 驱动 2.0（Windows、Android、iPhone、Mac）提供的新打印协议：多台打印机同时打印，所有设备看到同一个共享队列，打印机名称和对齐保存在打印机中，HP LaserJet 1010 系列打印机现在也可通过 Wi-Fi 打印。需要驱动 2.0：驱动 1.x 无法向固件 2.0 的打印机打印。"
 }
