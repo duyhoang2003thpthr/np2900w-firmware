@@ -1,10 +1,10 @@
 {
     "product":  "NP2900W",
-    "version":  "2.0.1",
-    "file":  "np2900w_update_v2.0.1_ENCRYPTED.bin",
-    "sha256":  "4d15c951614d33d8f43b44dbf8ec7c06f566fe9269375c58a2aa3ff2de241362",
+    "version":  "2.1.0",
+    "file":  "np2900w_update_v2.1.0_ENCRYPTED.bin",
+    "sha256":  "af5d00d0926d321902acffc63c796b343dd88fbfaf6e3e4d67e823bbcfe01d86",
     "size":  1053184,
-    "notes":  "2.0.1: fixes thin horizontal streaks through text - a few scan lines could print shifted sideways, over USB and Wi-Fi alike. Recommended for every printer on 2.0.0.",
-    "published":  "2026-10-01",
-    "notes_vi":  "2.0.1: sửa lỗi vệt mực mỏng ngang chữ - một vài dòng quét có thể bị in lệch ngang, cả khi in qua USB lẫn Wi-Fi. Nên cập nhật cho mọi máy đang chạy 2.0.0."
+    "notes":  "Firmware 2.1.0: Easier Wi-Fi setup - a new printer\u0027s own Wi-Fi (NP2900W-XXXX) needs no password until it is connected to your network. After setup the printer\u0027s own Wi-Fi carries the printer\u0027s name (\u003cname\u003e Direct, password 1234567890) and follows it when you rename the printer; two printers with the same name nearby never show the same Wi-Fi name. The test page now explains the first Wi-Fi setup.",
+    "published":  "2026-10-09",
+    "notes_vi":  "Firmware 2.1.0: Cài Wi-Fi dễ hơn - máy mới phát Wi-Fi riêng NP2900W-XXXX không cần mật khẩu cho tới khi được kết nối vào mạng của bạn. Sau khi cài, Wi-Fi riêng của máy mang tên máy in (\u003ctên\u003e Direct, mật khẩu 1234567890) và đổi theo khi bạn đổi tên máy; hai máy in trùng tên đặt gần nhau không bao giờ phát hai Wi-Fi cùng tên. Trang in thử có hướng dẫn cài Wi-Fi lần đầu."
 }
